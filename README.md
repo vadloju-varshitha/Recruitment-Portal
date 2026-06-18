@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Corporate Recruitment & Placement Portal
 
 A full-stack recruitment platform combining LinkedIn-style profiles, Naukri-style job search, and ATS (Applicant Tracking System) features.
@@ -180,3 +181,6 @@ Full API documentation at `/docs` when running the backend.
 ## License
 
 MIT
+=======
+# Recruitment-Portal
+>>>>>>> 47902968158acc7d540471bf14f630ec4522ad57
