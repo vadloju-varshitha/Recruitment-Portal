@@ -38,8 +38,8 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Corporate Recruitment & Placement Portal",
-    description="LinkedIn + Naukri + ATS Platform API",
+    title="HireHub",
+    description="Connecting Talent with Opportunity",
     version="1.0.0",
     lifespan=lifespan,
 )
